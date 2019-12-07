@@ -32,7 +32,7 @@ public class ReportConfig {
     private static final String DAILY_REPORT_SUBJECT = "Ежедневный отчет";
     private static final String REPORT_TEXT = "Отчет во вложении";
     private static final String MONTHLY_REPORT_SUBJECT = "Ежемесячный отчет";
-    private static final String REPORT_FROM = "\"Instant Payment Server\"<tes-noreply@alfastrah.ru>";
+    private static final String REPORT_FROM = "\"Instant Payment Server\"<test@test.ru>";
     private static final String REPORT_NAME = "report.xlsx";
 
     @Autowired
